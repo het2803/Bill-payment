@@ -1,0 +1,2 @@
+ReceiptNumber,AccountNumber,PaymentDate,BillingCompany,CustomerFname,CustomerLname,PaymentMethod,Amount
+20220407182603,67685,Apr 07 2022,Telus,Bing,Bang,Debit Card,167167.00

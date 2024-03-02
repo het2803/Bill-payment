@@ -1,0 +1,5 @@
+ReceiptNumber,AccountNumber,PaymentDate,BillingCompany,CustomerFname,CustomerLname,PaymentMethod,Amount
+20220407180346,4634643dfd,Apr 07 2022,Rogers,John,Brown,Debit Card,300.00
+20220407180346,4634643,Apr 07 2022,Rogers,John,Brown,Debit Card,300.00
+20220407052631,3876948828,Apr 07 2022,Rogers,Nigel,Taylor,Cash,378.67
+20220407055741,673532557,Apr 07 2022,Rogers,Jordan,Peterson,Cash,167.34

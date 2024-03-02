@@ -1,0 +1,2 @@
+ReceiptNumber,AccountNumber,PaymentDate,BillingCompany,CustomerFname,CustomerLname,PaymentMethod,Amount
+20220407044459,2353535,Apr 07 2022,Electricity,Bugs,Bunney,Cash,344.75

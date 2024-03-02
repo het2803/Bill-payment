@@ -1,0 +1,1 @@
+Total no. of rows: 4Field names are:ReceiptNumber, AccountNumber, PaymentDate, BillingCompany, CustomerFname, CustomerLname, PaymentMethod, Amount
